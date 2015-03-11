@@ -1,0 +1,250 @@
+.wrap h2:first-of-type{
+	display: none;
+}
+
+#post-body-content, #normal-sortables{
+	display: none;
+}
+
+.metabox-holder .postbox-container .empty-container{
+	border: none;
+}
+
+#basis-doc h3.hndle{
+	font-size: 2rem;
+}
+
+
+/* Additional default styles for the editor */
+#basis-doc .inside {
+	margin: 2em 1.25em;
+	max-width: 100%;
+	-webkit-font-smoothing: antialiased !important;
+}
+
+#basis-doc .inside p, #basis-doc .inside ul, #basis-doc .inside ol, #basis-doc .inside table{
+	font-size: 1.1em;
+
+	line-height: 1.5;
+	margin: 1.25em 0;
+}
+
+#basis-doc .inside h3{
+	margin: 1.33em 0;
+	padding: 0;
+}
+
+#basis-doc .inside ul{
+	list-style: disc inside;
+}
+
+#basis-doc .inside ol{
+	list-style: decimal inside;
+}
+
+#basis-doc .inside blockquote{
+	border-left: 3px solid #bbb;
+	color: #999;
+	font-style: italic;
+	margin: 1em 0;
+	padding:0 1em .5em;
+}
+
+#basis-doc .inside img{
+	height: auto;
+	max-width: 100%;
+}
+
+#basis-doc .inside .alignright{
+	float: right;
+	margin: 0 0 1em 1em;
+}
+
+#basis-doc .inside .alignleft{
+	float: left;
+	margin: 0 1em 1em 0;
+}
+
+#basis-doc .inside .aligncenter, #basis-doc .inside dl.aligncenter,
+#basis-doc .inside .html5-captions .wp-caption.aligncenter{
+	clear: both;
+	display: block;
+	margin: 1em auto;
+}
+
+/* When font-weight is different than the default browser style,
+Chrome and Safari replace <strong> and <b> with spans with inline styles on pasting?! */
+#basis-doc .inside.webkit strong, #basis-doc .inside.webkit b {
+	font-weight: bold !important;
+}
+
+pre {
+	font-family: Consolas, Monaco, monospace;
+}
+
+/*Doc Tables*/
+
+#basis-doc .inside table {
+	border:#ccc 1px solid;
+}
+
+#basis-doc .inside th {
+	padding:.5em;
+	border-top:1px solid #fafafa;
+	border-bottom:1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+}
+#basis-doc .inside th:first-child {
+	border-left: none;
+	text-align: left;
+	padding-left:1em;
+}
+#basis-doc .inside tr {
+	text-align: center;
+	padding-left:1em;
+}
+#basis-doc .inside td:first-child {
+	text-align: left;
+	padding-left:1em;
+	border-left: 0;
+}
+#basis-doc .inside td {
+	padding:1em;
+	border-bottom:1px solid #e0e0e0;
+	border-left: 1px solid #e0e0e0;
+}
+
+#basis-doc .inside tr:last-child td {
+	border-bottom:none;
+}
+
+/* Doc Media*/
+
+#basis-doc .inside .wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #f3f3f3;
+	padding-top: 4px;
+	margin: 10px 0;
+}
+
+#basis-doc .inside .html5-captions .wp-caption {
+	border: none;
+	background-color: transparent;
+	margin: 0;
+	padding: 0;
+}
+
+#basis-doc .inside .wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+#basis-doc .inside .wp-caption-dd {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+}
+
+#basis-doc .inside audio, #basis-doc .inside video,
+embed {
+	display: -moz-inline-stack;
+	display: inline-block;
+}
+
+#basis-doc .inside audio {
+	visibility: hidden;
+}
+
+/* Doc Image Galleries */
+#basis-doc .inside .wpview-type-gallery:after {
+    content: '';
+	display: table;
+    clear: both;
+}
+
+
+#basis-doc .inside .gallery {
+	margin: auto -6px;
+	padding: 6px 0;
+	line-height: 1;
+	overflow-x: hidden;
+}
+
+#basis-doc .inside .gallery .gallery-item {
+	float: left;
+	margin: 0;
+	text-align: center;
+	padding: 6px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#basis-doc .inside .gallery .gallery-caption,
+#basis-doc .inside .gallery .gallery-icon {
+	margin: 0;
+}
+
+#basis-doc .inside .gallery .gallery-caption {
+	font-size: 13px;
+	margin: 4px 0;
+}
+
+#basis-doc .inside .gallery-columns-1 .gallery-item {
+	width: 100%;
+}
+
+#basis-doc .inside .gallery-columns-2 .gallery-item {
+	width: 50%;
+}
+
+#basis-doc .inside .gallery-columns-3 .gallery-item {
+	width: 33.333%;
+}
+
+#basis-doc .inside .gallery-columns-4 .gallery-item {
+	width: 25%;
+}
+
+#basis-doc .inside .gallery-columns-5 .gallery-item {
+	width: 20%;
+}
+
+#basis-doc .inside .gallery-columns-6 .gallery-item {
+	width: 16.665%;
+}
+
+#basis-doc .inside .gallery-columns-7 .gallery-item {
+	width: 14.285%;
+}
+
+#basis-doc .inside .gallery-columns-8 .gallery-item {
+	width: 12.5%;
+}
+
+#basis-doc .inside .gallery-columns-9 .gallery-item {
+	width: 11.111%;
+}
+
+#basis-doc .inside .gallery img {
+	max-width: 100%;
+	height: auto;
+	border: none;
+	padding: 0;
+}
+
+/*Related Docs Box*/
+#basis-related ul {
+	list-style: none inside;
+}
+
+#basis-related ul ul{
+	list-style: circle inside;
+}
+
+#basis-related .current_page_item {
+	font-weight: bold;
+}

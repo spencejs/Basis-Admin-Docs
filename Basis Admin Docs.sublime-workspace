@@ -1,0 +1,1061 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bad",
+				"bad_top_link"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"pa",
+				"parent_ID"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"admin_doc",
+				"admin_doc_page"
+			],
+			[
+				"ba",
+				"bad_title"
+			],
+			[
+				"get_the_t",
+				"get_the_title"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"wid",
+				"widget_issue_a_tag"
+			],
+			[
+				"widg",
+				"widget_issue_ID"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"is",
+				"isue_ID"
+			],
+			[
+				"dow",
+				"download_name"
+			],
+			[
+				"iss",
+				"issue_edit_id"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"sort",
+				"sortable"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"tog",
+				"toggled-on"
+			],
+			[
+				"work",
+				"work-content"
+			],
+			[
+				"cu",
+				"current_id"
+			],
+			[
+				"border-le",
+				"border-left-color"
+			],
+			[
+				"fi",
+				"fillForm"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"da",
+				"dataId"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"su",
+				"sumit-form"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"a",
+				"crosshair"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"sortable",
+				"sortable-placeholder"
+			],
+			[
+				"col",
+				"color-text"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"co",
+				"color-text-light"
+			],
+			[
+				"get_the_",
+				"get_the_id"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"last-",
+				"last-of-type"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"wo",
+				"work_category"
+			],
+			[
+				"the",
+				"the_content"
+			],
+			[
+				"terms",
+				"theterms"
+			],
+			[
+				"wor",
+				"work_link"
+			],
+			[
+				"art",
+				"artist_name"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"ter",
+				"term_list"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"is_sin",
+				"is_singular"
+			],
+			[
+				"fot",
+				"font-style"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"colo",
+				"color-text"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"color-t",
+				"color-text-lighter"
+			],
+			[
+				"artist",
+				"artist_site"
+			],
+			[
+				"ar",
+				"artist_site"
+			],
+			[
+				"artis",
+				"artist_website"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"marg",
+				"margin-double"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "basis-admin-docs.php",
+			"settings":
+			{
+				"buffer_size": 6130,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bad-docs.css",
+			"settings":
+			{
+				"buffer_size": 4294,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"wordp",
+				"WordPress Codex: Search Selection"
+			],
+			[
+				"wordpre",
+				"WordPress Codex: Open Function Reference"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/plugins/wp-migrate-db/wp-migrate-db.php",
+		"/C/wamp/alias/BowlerHat.conf",
+		"/C/Users/spenc_000/Downloads/readme.txt",
+		"/C/Users/spenc_000/Dropbox/GitHub/JosiahSpence/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/Basis/style.scss",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_post-type-requirements-checklist.zip/post-type-requirements-checklist/admin/class-post-type-requirements-checklist-admin.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_force-post-category-selection.zip/force-post-category-selection/force-post-category-selection.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_require-post-tags.1.0.zip/require-post-tags/require-post-tags.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_post-type-requirements-checklist.zip/post-type-requirements-checklist/admin/includes/index.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_post-type-requirements-checklist.zip/post-type-requirements-checklist/index.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_post-type-requirements-checklist.zip/post-type-requirements-checklist/post-type-requirements-checklist.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_post-type-requirements-checklist.zip/post-type-requirements-checklist/includes/index.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_post-type-requirements-checklist.zip/post-type-requirements-checklist/public/class-post-type-requirements-checklist.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/includes/css/admin.css",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/includes/js/admin-scripts.js",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/includes/basis-meta-boxes.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/single-issue-ebook.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/includes/basis-admin.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/functions.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/single-issue-sorting.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/loop-issue.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/footer.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/front-page.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/js/script.js",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/part-svg.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_bridge.zip/bridge/title.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/header.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/loop-issue-list.php",
+		"/C/Users/spenc_000/Downloads/willsong-v120/willsong1.2.0/willsong/partials/menu.hbs",
+		"/C/Users/spenc_000/Downloads/willsong-v120/willsong1.2.0/willsong/partials/header_page.hbs",
+		"/C/Users/spenc_000/Downloads/willsong-v120/willsong1.2.0/willsong/partials/header.hbs",
+		"/C/Users/spenc_000/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/spenc_000/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/spenc_000/Desktop/dovecot-uidvalidity.4e4b107c",
+		"/C/Users/spenc_000/Desktop/passwd,v",
+		"/C/Users/spenc_000/Desktop/passwd",
+		"/C/Users/spenc_000/Desktop/index.php",
+		"/C/Users/spenc_000/Desktop/Git Tester/Git-Test/header.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/Git Tester/header.php",
+		"/C/Users/spenc_000/Desktop/bridge/templates/portfolio-loop.php",
+		"/C/Users/spenc_000/Desktop/bridge-child/templates/blog_small_image-loop.php",
+		"/C/Users/spenc_000/Desktop/bridge/templates/blog_single-loop.php",
+		"/C/Users/spenc_000/Desktop/bridge/templates/blog_masonry-loop.php",
+		"/C/Users/spenc_000/Desktop/bridge-child/templates/blog_large_image_whole_post-loop.php",
+		"/C/Users/spenc_000/Desktop/bridge/templates/blog_large_image_simple-loop.php",
+		"/C/Users/spenc_000/Desktop/bridge/templates/blog_search-loop.php",
+		"/C/Users/spenc_000/Desktop/bridge/templates/blog-structure.php",
+		"/C/Users/spenc_000/Desktop/bridge-child/templates/blog_large_image-loop.php",
+		"/C/Users/spenc_000/Desktop/bridge/category.php",
+		"/C/Users/spenc_000/Desktop/wp-content/themes/bridge-child/templates/blog_single-loop.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_bridge.zip/bridge/single.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_bridge.zip/bridge/templates/blog_single-loop.php",
+		"/C/Users/spenc_000/Downloads/josiahspence.com backup/min/scripts.min.js",
+		"/C/Users/spenc_000/Downloads/josiahspence.com backup/index.html",
+		"/C/Users/spenc_000/Downloads/Sunceraeandjosiah site backup/sunceraeandjosiah.com/wp-config.php",
+		"/C/Users/spenc_000/Downloads/themes/Basis/style.css",
+		"/C/Users/spenc_000/Downloads/contact-form/contact-form/style.css",
+		"/C/Users/spenc_000/Desktop/wp-config.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/includes/basis-custom.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/includes/basis-options.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/loop-work.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/loop-issue-archive.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/includes/basis-cleanup.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/single.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/loop-list_work.php",
+		"/C/Users/spenc_000/Desktop/GitHubLog.txt",
+		"/C/Users/spenc_000/Dropbox/GitHub/Basis/Basis/header.php",
+		"/C/Users/spenc_000/Dropbox/WP-plugins/paged-post-slider/trunk/paged-post-slider.php",
+		"/C/Users/spenc_000/Dropbox/WP-plugins/paged-post-slider/trunk/readme.txt",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/theme.css",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Autumn2014.html",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/Autumn 2014/Autumn2014.html",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/Alarm/Transfers/GBDTransfer/wp-content/themes/guerreroV2-1/footer.php",
+		"/C/Users/spenc_000/Downloads/certificate/www.wearedesignbureau.com.csr",
+		"/C/Users/spenc_000/Downloads/Transfers/DesignBureauTransfer/ssl/csr.txt",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/index.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Summer2008.htm",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Autumn2008.htm",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Winter2008.htm",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Rust + Moth  Winter 2008.htm",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/browserconfig.xml",
+		"/C/Users/spenc_000/Downloads/favicons/browserconfig.xml",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/searchform.php",
+		"/C/Users/spenc_000/Dropbox/GitHub/Basis/Basis/search.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Winter2009.htm",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Summer2010.htm",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/GuerreroDocumentary/GuerreroDocSite/wp-content/themes/twentyfourteen/functions.php",
+		"/C/Users/spenc_000/Dropbox/GitHub/Basis/Basis/includes/basis-enqueue.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Autumn2013.htm",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/theme.css",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Sping2014.htm",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/eBooks/Spring2014.htm",
+		"/C/Users/spenc_000/Desktop/test.html",
+		"/C/Users/spenc_000/Desktop/theme.css",
+		"/C/Users/spenc_000/Desktop/Summer2012.htm",
+		"/C/Users/spenc_000/AppData/Local/GitHub/TheLog.txt",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/eid4dncp.fi5.txt",
+		"/C/Users/spenc_000/Dropbox/GitHub/Paged-Post-Slider/paged-post-slider.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/Code Carpenter/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/code-carpenter/single.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/loop-single.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/loop-list.php",
+		"/C/Users/spenc_000/AppData/Local/Temp/Temp1_salient.zip/salient/index.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/part-footer_meta.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/page.php",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/part-post_meta.php",
+		"/C/Users/spenc_000/Downloads/IcoMoon-11-32px-#000000/sprites/sprites.html",
+		"/C/Users/spenc_000/Downloads/IcoMoon-8-32px-#000000/sprites/sprites2.svg",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/Lisa Wedding/weddingsite/index.html",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/Lisa Wedding/weddingsite/script.js",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/Lisa Wedding/weddingsite/style.scss",
+		"/C/Users/spenc_000/Dropbox/GitHub/Basis/Basis/style.scss",
+		"/C/Users/spenc_000/Downloads/IcoMoon-9-32px-#000000/sprites/sprites.html",
+		"/C/Users/spenc_000/Downloads/IcoMoon-8-32px-#000000/sprites/sprites.html",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/part-pagination.php",
+		"/C/Users/spenc_000/Dropbox/GitHub/Paged-Post-Slider/readme.txt",
+		"/C/Users/spenc_000/Dropbox/GitHub/Paged-Post-Slider/README.md",
+		"/C/Users/spenc_000/Dropbox/GitHub/Paged-Post-Slider/paged-post.js",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/fonts/RM-icons.dev.svg",
+		"/C/Users/spenc_000/Downloads/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/plugins/paged-post-slider/paged-post.css",
+		"/C/Users/spenc_000/Downloads/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/plugins/paged-post-slider/paged-post-slider.php",
+		"/C/Users/spenc_000/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/spenc_000/Downloads/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/plugins/paged-post-slider/paged-post.js",
+		"/C/Users/spenc_000/Downloads/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/Basis/part-footer_meta.php",
+		"/C/Users/spenc_000/Downloads/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/Basis/part-post_meta.php",
+		"/C/Users/spenc_000/Downloads/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/Basis/part-pagination.php",
+		"/C/Users/spenc_000/Downloads/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/Basis/loop-single.php",
+		"/C/Users/spenc_000/Downloads/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/Basis/single.php",
+		"/C/Users/spenc_000/Dropbox/WP-plugins/paged-post-slider/trunk/paged-post.js",
+		"/C/Users/spenc_000/Dropbox/BowlerHat/Active Projects/R+M/R+M New Site/InstantWP_4.3/iwpserver/htdocs/wordpress/wp-content/themes/rustandmoth-v3/index.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"action",
+			"wp_list_pages",
+			"custom_type",
+			".gallery",
+			"table",
+			"table ",
+			"20px",
+			"table",
+			"333",
+			"body",
+			"init",
+			"basis",
+			"post",
+			"admin_doc_page",
+			"my",
+			"sorting",
+			"basis_sorting_box",
+			"$",
+			"cons",
+			"bx",
+			"port",
+			"’",
+			"&#8217;",
+			"issue",
+			"</p>",
+			"<p class=\"in-progress-note\">",
+			"issue",
+			"isue",
+			"my_dashboard_widget",
+			"name",
+			"list",
+			"lists",
+			"Lists",
+			"artists",
+			"events",
+			"column",
+			"<a",
+			"cont",
+			"sorting",
+			"_to_mypage",
+			"drw",
+			"p",
+			"te_t",
+			"ter_query",
+			"issue",
+			"ebook",
+			"Ebook Generation",
+			"\"/",
+			"/",
+			"hr",
+			"<?php _e('in','qode'); ?> ",
+			"in",
+			"template",
+			"in",
+			"info",
+			"in",
+			"::",
+			"title",
+			"side",
+			"previous-link",
+			"mail",
+			"Email",
+			"email",
+			"icon-sea",
+			"twitter",
+			"Twitter",
+			"twitter",
+			"book",
+			"sketchbook",
+			"hr",
+			"’",
+			"\"#chap31",
+			"\"#chap29",
+			"\"#chap24",
+			"\"#chap20",
+			"\"#chap",
+			"pete",
+			"pet",
+			"obsess",
+			"peter",
+			"dollf",
+			"doll",
+			"peter",
+			"advice for",
+			"peter",
+			"the final",
+			"pete",
+			"el tren",
+			"peter",
+			"roba",
+			"mood ri",
+			"eros",
+			"cube",
+			"1938",
+			"1939",
+			"leak",
+			"erin wi",
+			"in another",
+			"late seas",
+			"stonec",
+			"stone",
+			"kimura",
+			"lafor",
+			"nether",
+			"ampers",
+			"koch",
+			"bible",
+			"nuom",
+			"peter",
+			"Kline",
+			"dasb",
+			">\n",
+			"—",
+			"• ",
+			"&#8217;",
+			"—",
+			"’",
+			"exclude_category",
+			"); ",
+			"push",
+			"div",
+			"span",
+			"</span>",
+			"<span style=\"line-height: 1.5;\">",
+			"</span>",
+			"<span style=\"line-height: 1.5;\">",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "basis-admin-docs.php",
+					"settings":
+					{
+						"buffer_size": 6130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3828,
+								3828
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2160.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bad-docs.css",
+					"settings":
+					{
+						"buffer_size": 4294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4294,
+								4294
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4973.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"me",
+				"includes/basis-meta-boxes.php"
+			],
+			[
+				"meta",
+				"includes/basis-meta-boxes.php"
+			],
+			[
+				"foo",
+				"footer.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"cus",
+				"includes/basis-custom.php"
+			],
+			[
+				"scr",
+				"js/script.js"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"opti",
+				"includes/basis-options.php"
+			],
+			[
+				"met",
+				"includes/basis-meta-boxes.php"
+			],
+			[
+				"cu",
+				"includes/basis-custom.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"se",
+				"searchform.php"
+			],
+			[
+				"cust",
+				"includes/basis-custom.php"
+			],
+			[
+				"sty",
+				"style.scss"
+			],
+			[
+				"st",
+				"style.css"
+			],
+			[
+				"style",
+				"style.scss"
+			],
+			[
+				"script",
+				"scripts.js"
+			],
+			[
+				"scrip",
+				"scripts.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/spenc_000/Dropbox/BowlerHat/Active_Projects/R+M/R+M New Site/Rust and Moth.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true
+}
